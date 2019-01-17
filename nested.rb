@@ -134,5 +134,5 @@ def adding_to_dennis
         }
      }
 
-    programmer_hash[:alan_kay][:languages] = "GUI"
+    programmer_hash[:dennis_ritchie][:languages] << "Assembly"
 end
